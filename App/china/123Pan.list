@@ -1,2 +1,6 @@
-OR,((DOMAIN-SUFFIX,123pan.com), (DOMAIN-SUFFIX,123.com), (DOMAIN-SUFFIX,123684.com))
-PROCESS-NAME,/Applications/123云盘.app/Contents/MacOS/123云盘
+DOMAIN-SUFFIX,123.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,123684.com
+DOMAIN-SUFFIX,shujupie.com
+PROCESS-NAME,"/Applications/123云盘.app/Contents/MacOS/123云盘"
+PROCESS-NAME,"/Applications/123云盘.app/Contents/Frameworks/123  云盘 Helper.app/Contents/MacOS/123云盘 Helper"
